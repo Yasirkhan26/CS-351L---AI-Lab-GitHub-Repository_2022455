@@ -46,3 +46,6 @@ For any queries or assistance, feel free to reach out to the course instructor:
 **GitHub:** [usamajanjua9](https://github.com/usamajanjua9)
 
 ---
+
+Hey this is Shazim updating this file for DevOps Project.
+
